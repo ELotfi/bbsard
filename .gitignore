@@ -1,0 +1,5 @@
+outputs/
+scripts/experiments/runs/
+scripts/experiments/*.out
+*.pyc
+
